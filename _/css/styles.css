@@ -1,0 +1,193 @@
+.body{
+    margin-left: 16.7%;
+    margin-right:16.7%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-fluid{
+    margin-left: 16.7%;
+    margin-right:16.7%;
+}
+
+a.navbar-brand{
+    padding-left: 0px;
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+
+}
+ul.nav >li >a{
+    padding-right: 0px;
+    margin-right: 0px;
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+}
+ul.nav >li >a:hover{
+    background-color: #fff;
+    padding-bottom: 10px;
+    border-bottom: 2px  #e22222 solid;
+}
+ul.nav >li >a.active{
+    background-color: #fff;
+    padding-bottom: 10px;
+    border-bottom: 2px  #e22222 solid;
+}
+#firstname{
+    color: #e22222;
+   
+}
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar {
+  padding-top: 2.8%;
+  padding-bottom: 2%;
+  border-radius: 0;
+  border-bottom: 1px #ebebeb solid;
+}
+
+.jumbotron{
+    margin-left: 16.7%;
+    margin-right:16.7%;
+    background-color: #fff;
+    
+}
+.container h2{
+    color: #000000;
+    padding-top: 3%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.container p{
+    margin-top: 2.6%;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+.container a.btn{
+    color: #fff;
+    background-color:  #000000;
+    width: 144px;
+    height: 46px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 10px;
+    margin-top: 2.4%;
+    margin-bottom: 3.7%;
+}
+.container a.btn:hover{
+    background-color: #e22222;
+}
+.section2{
+    border-bottom: 1px #ebebeb solid;
+}
+.container-fluid h3{
+    color: #000000;
+    font-weight: bold;
+    margin-top: 2.6%;
+    margin-bottom: 2.6%;
+}
+div.projects img .img-responsive{
+    height: 202px;
+}
+
+.projects >a.btn{
+    width: 100%;
+    border: 1px #a8a8a8 solid;
+    border-top: none;
+    border-radius: 15px;
+    height: 110px;
+    margin-top: -20px;
+}
+.projects >a.btn>h4{
+    padding-top: 10%;
+    color: #6b6b6b;
+    font-weight: bold;
+
+}
+.projects >a.btn>p{
+    color: #999999;
+}
+.container-fluid{
+    margin-bottom: 2.3%;
+}
+.section3{
+    background-color: #c3c1c1;
+    height: 493px;
+}
+.aboutme h2{
+    padding-top: 2.6%;
+    padding-bottom: 2.5%;
+    color: #000000;
+    font-weight: bold;
+}
+.aboutme p{
+    font-size: 14px;
+    color: #585555;
+    line-height: 1.5em;
+    font-weight: bold;
+}
+.aboutme a{
+    color:  #e22222;
+    text-decoration: none;
+
+}
+.aboutme a:hover{
+    padding-bottom: 5px;
+    border-bottom: 1px #ebebeb solid; 
+}
+.sidebar h2{
+    padding-top: 2.6%;
+    color: #000000;
+    font-weight: bold;
+   
+}
+.sidebar1{
+    margin-top: 55px;
+    padding-bottom: 35px;
+    border-bottom: 1px #999999 solid;
+    color: #111010;
+    font-weight: bolder;
+    font-size: 12px;
+}
+.sidebar2{
+    margin-top: 35px;
+    color: #111010;
+    font-weight: bolder;
+    font-size: 12px;
+}
+h5{
+    font-weight: bold;
+}
+h5 #red{
+    color: #a42525;
+}
+.footerlinks{
+    list-style: none;
+}
+.footerlinks li{
+    display: inline-block;
+    margin-top: 2%;
+}
+.footerlinks li a{
+    padding: 10px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+}
+#name{
+    color: #e22222;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+.profile-thumbnail{
+    width: 250px;
+    height: 100px;
+    border-radius: 100%;
+}
